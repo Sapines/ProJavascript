@@ -1,0 +1,28 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>Github Project</title>
+<style>
+Body {font-family: Georgia, “arial”, sans-seriferif; color: white;}
+H1 {font: small-caps bold 48px/96px arial, sans-serif;}
+H2 {font: small-caps 30px/20px arial, sans-serif;}
+.linenor {line-height: normal;}
+.miring {font-style:italic;}
+.variasi {font-variant: small-caps;}
+.tebal {font-weight: 700;}
+.tengah {text-align: center;}
+a {color: white;}
+footer {display: block;}
+</style>
+</head>
+<body style="background-color:black">
+<h1 class="tengah","linenor">Iki Judul</h1>
+<p class="tengah">Iki tulisan biasa</p>
+<hr>
+<br>
+</body>
+<footer>
+<hr>
+<p>About Us: An indie game developer</p>
+</footer>
+</html>
